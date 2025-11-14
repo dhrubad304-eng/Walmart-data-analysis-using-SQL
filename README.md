@@ -13,6 +13,7 @@ This project solves these challenges by creating a relational database and analy
 
 ### **Dataset**
 - The project uses multiple tables:
+  
   -category – Product categories
   - products – Product details
   - stores – Store locations
