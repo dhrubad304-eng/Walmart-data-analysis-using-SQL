@@ -13,12 +13,12 @@ This project solves these challenges by creating a relational database and analy
 
 ### **Dataset**
 - The project uses multiple tables:
-  
-  -category – Product categories
+  - category – Product categories
   - products – Product details
   - stores – Store locations
   - sales – All sales transactions
   - warranty – Warranty claim records
+
 
 ### *Tools and Technologies*
 - PostgreSQL 
