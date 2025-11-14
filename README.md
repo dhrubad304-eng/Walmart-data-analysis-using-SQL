@@ -3,6 +3,9 @@
 ### **Summary**
 A complete SQL project analyzing product sales, store performance, warranties, and category trends using advanced SQL queries.
 
+<img src="https://github.com/dhrubad304-eng/retail-sales-sql-project/blob/main/retail_png.jpeg?raw=true">
+
+
 ### **Overview**
 This project demonstrates end-to-end SQL skills by building a structured retail database and performing meaningful business analytics.
 It includes schema creation, EDA, complex analytical queries, window functions, and performance insights across products, stores, categories, and warranties.
